@@ -1,5 +1,6 @@
 # Demonstrating manual index and enumerate in Python
 
+
 l = [4, 8, 99, 0]
 
 # Method 1: Manual index increment
