@@ -2,7 +2,7 @@
 
 
 ### A structured journey from Python fundamentals to real-world software and AI projects.
- 
+  
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/bhoomijn/Python-Basics-to-Projects)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -23,6 +23,39 @@ Rather than treating Python as only a programming language to study, this reposi
 The repository covers programming fundamentals, problem solving, object-oriented programming, file handling, advanced Python concepts, mini projects, and larger real-world applications.
 
 It also serves as the foundation for my long-term journey toward **Artificial Intelligence, Machine Learning, and Software Engineering**.
+
+---
+
+## 🧩 Related Learning Repositories
+
+I am continuously building my technical foundation through structured practice and hands-on learning across multiple programming areas.
+
+### Python Core Mastery
+Repository: [bhoomijn/Python-Core-Mastery](https://github.com/bhoomijn/Python-Core-Mastery)
+
+- Daily Python practice
+- Focus on core programming fundamentals
+- Includes professional-style code examples and mini projects
+- Builds logic, coding discipline, and practical implementation skills
+
+### C++ Programming Track
+Repository: [bhoomijn/Cpp-Programming-Track](https://github.com/bhoomijn/Cpp-Programming-Track)
+
+- C++ solutions to HackerRank challenges
+- Strengthens problem-solving and competitive programming abilities
+- Improves logic building, implementation skills, and algorithmic thinking
+- Encourages consistent practice and structured learning
+
+### Skills Developed
+- Python
+- C++
+- Problem Solving
+- Logic Building
+- Competitive Programming
+- Clean and Efficient Code Practices
+
+### Professional Summary
+I am focused on continuous learning and hands-on coding practice to build a strong foundation in software development. Through daily work in Python and C++, I am improving my technical skills, analytical thinking, and ability to write efficient, readable, and maintainable code.
 
 ---
 
