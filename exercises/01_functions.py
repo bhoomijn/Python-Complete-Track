@@ -8,6 +8,7 @@ Topics covered:
 """
 
 
+
 def calculate_average(num1, num2):
     """
     Calculate the average of two numbers.
