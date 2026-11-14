@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Learning](https://img.shields.io/badge/Learning-Continuous-orange.svg)](#-learning-path)
 
+
 A structured learning repository focused on building strong Python fundamentals, logical thinking, practical coding skills, and real-world project experience.
 
 ## Overview
