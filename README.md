@@ -74,7 +74,9 @@ Python-Basics-to-Projects/
 
 ## Getting Started
 
+
 ### Prerequisites
+
 
 - Python 3.x
 - VS Code or any Python editor
