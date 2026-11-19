@@ -29,6 +29,7 @@ The purpose of this repository is to:
 
 ## Topics Covered
 
+
 - Introduction to Python
 - Variables and Data Types
 - Operators and Expressions
